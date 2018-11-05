@@ -1,0 +1,56 @@
+
+
+* {
+    box-sizing: border-box;
+  }
+  
+/* background */
+    body {
+      background-image: url('https://wallpaperaccess.com/full/717318.jpg')
+    }
+
+
+
+/* // Small devices */
+@media screen  and (max-width: 640px) { 
+
+}
+
+/* // Medium devices  */
+@media screen  and (max-width: 768px) { 
+
+ }
+
+/* // Large devices  */
+@media screen  and (max-width: 980px) { 
+
+}
+
+.jumbotron {
+    
+    background-color: rgb(61, 61, 61);
+}
+
+p ,h1 {
+    color:whitesmoke;
+}
+
+
+#bio-image{
+    height: 150px;
+    width: 150px;
+    margin-right: 20px;
+}
+  
+footer{
+    text-align: center;
+    text-decoration: underline;
+    font-size: 8px;
+    font-family: Arial, Helvetica, sans-serif;
+    position:bottom;
+    color: floralwhite;
+}
+
+h5{
+    color: rgba(188, 192, 218, 0.952);
+}
